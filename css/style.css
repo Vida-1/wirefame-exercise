@@ -1,0 +1,51 @@
+
+header{
+    background-color:#ddd; 
+    width: 960px;
+    margin: 15px;
+    display:inline-block;
+    vertical-align: middle;
+    }
+header img{
+        float: left;
+    
+    }
+header li {
+    display: inline-flex;
+    text-align:center;
+    margin: 50px;
+}    
+
+body ,html{
+    background-color: #ddd;
+  }
+
+body img {
+    margin: 15px;
+}
+
+section img {
+    display:flex;
+    align-content: center;
+    float:left;
+    margin: 15px 30px 0px 15px;
+}
+
+div textarea{
+    display: flex;
+    vertical-align: bottom;
+    padding: 10px;
+    text-align: justify;
+    text-indent: none;
+    border-style: none;
+}
+h4{
+    padding: 20px 0px 10px 30px;
+}
+button{
+    margin: 15px 0px 0px 0px;
+}
+footer{
+    display:block;
+    padding: 0px 0px 0px 0px;
+}
